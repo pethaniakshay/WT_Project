@@ -14,8 +14,9 @@
 		
 	<div id="container">
 		<div class="art">
-			<h3>Write Here Article</h3>
+			<h3> Article</h3>
 			<img src="img/5.jpeg" alt="Error.." class="c_img" width="100%">
+			Article content goes here...............................
 			
 		</div>
 	</div>

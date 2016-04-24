@@ -5,8 +5,8 @@
 	</div>
 	
 	<div class="pop_post">
-		<a href="articles/1.php" class="pop_post">Jnu Controvercy</a>
+		<a href="1.php" class="pop_post">Jnu Controvercy</a>
 		<br />
-		<a href="articles/2.php" class="pop_post">Dandi March</a>
+		<a href="2.php" class="pop_post">Dandi March</a>
 	</div>
 </div>

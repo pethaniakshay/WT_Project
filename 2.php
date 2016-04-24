@@ -2,19 +2,19 @@
 <html>
 	<head>
 		<title>Article title</title>
-		<link rel="stylesheet" type="text/css" href="www.revolution.com/css/style.css">
+		<link rel="stylesheet" type="text/css" href="css/style.css">
 	</head> 
 		
 	<body id="art_bar">
 		<?php
-			include('www.revolution.com/header.php');
-			include('www.revolution.com/nav.php');
-			include('www.revolution.com/sidebar.php');			
+			include('header.php');
+			include('nav.php');
+			include('sidebar.php');			
 		?>	
 		
 	<div id="container">
 		<div class="art">
-			<h3>Write Here Article</h3>
+			<h3>Article</h3>
 			<img src="img/5.jpeg" alt="Error.." class="c_img" width="100%">
 			Article content goes here...............................
 			
@@ -23,7 +23,7 @@
 		
 		
 		<?php
-			include('www.revolution.com/footer.php');
+			include('footer.php');
 		?>
 	</body>
 </html>

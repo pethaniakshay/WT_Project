@@ -1,0 +1,23 @@
+body{
+	margin:0px;
+	
+	
+	
+}
+
+
+.head{
+	background:#FFFF66;
+	height:80px;
+	padding-right:0px;
+	padding-top:5px;
+	padding-left:20px;
+	border-bottom-color:red;
+	border-bottom-style:solid ;
+	
+}
+
+.head_img{
+	height:75px;
+	
+}

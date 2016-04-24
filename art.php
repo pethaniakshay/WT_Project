@@ -13,7 +13,5 @@
 		Salt March, also called Dandi March or Salt Satyagraha, Naidu, Sarojini: Gandhi and Naidu [Credit: Bettmann/Corbis]major nonviolent protest action in India led by Mohandas (Mahatma) Gandhi in March–April 1930. The march was the first act in an even-larger campaign of civil disobedience (satyagraha) Gandhi waged against British rule in India that extended into early 1931 and garnered Gandhi widespread support among the Indian populace and considerable worldwide attention.
 		
 		<a href="articles/1.php" class="art"> Read More...... </a>
-	</div>
-	
-	
+	</div>	
 </div>

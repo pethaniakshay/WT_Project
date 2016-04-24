@@ -92,8 +92,25 @@ img.c_img{
 	padding-top:10px;
 	display:block;
 	width:25%;
-	margin-left:10px;
 	float:right;
-	background:blue;
+	background:#f6f99f;
 }
 
+.ad{
+	display:block;
+	padding:5px;
+	margin:6px;
+}
+
+.pop_post{
+	padding:10px;
+}
+a.pop_post{
+	display: inline-block;
+    color: red;
+    text-align: center;
+    padding: 7px;
+    text-decoration: none;
+	
+	
+}
